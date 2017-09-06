@@ -48,10 +48,6 @@
       <HintPath>..\packages\SC.Sitecore.Kernel.8.2.3\lib\Sitecore.Kernel.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="Sitecore.Commerce.Connect.CommerceServer">
-      <HintPath>..\packages\COM.Sitecore.Commerce.Connect.CommerceServer.8.2.1\lib\Sitecore.Commerce.Connect.CommerceServer.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Drawing" />
     <Reference Include="System.Web" />
